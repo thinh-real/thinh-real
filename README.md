@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**thinh-real/thinh-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thinh Real's Web Development Journey
 
-Here are some ideas to get you started:
+Welcome to my profile! 👋 I'm **Thinh Real**, a newbie in the world of web development, currently diving into the exciting realm of coding, design, and building web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 **Learning Web Development**: I'm just getting started and excited to explore all things HTML, CSS, JavaScript, and more!
+- 💻 **Technologies I'm Exploring**: HTML, CSS, JavaScript, React, and basic web design.
+- 🌍 **My Goals**: I aim to build responsive, interactive, and user-friendly websites. Over time, I want to dive deeper into full-stack development.
+
+## What I'm Working On
+
+Currently, I'm learning how to:
+- Create simple websites using HTML/CSS.
+- Build dynamic websites with JavaScript.
+- Understand web design principles and user experience (UX).
+- Explore frameworks like React for building modern web apps.
